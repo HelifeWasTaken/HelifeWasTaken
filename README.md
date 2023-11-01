@@ -9,7 +9,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/62753801?v=4" height="300px" width="300px" class="centerImage" />
 
-### Down below is a resume about me, but you may be here for [my complete CV](https://mattisdalleau.com/cv.html)
+<!-- ### Down below is a resume about me, but you may be here for [my complete CV](https://mattisdalleau.com/cv.html) -->
 ## 📖**About me :**
 - 🇷🇪 I'm from the Réunion's Island
 - ✨ I'm a software engineer working with C/C++, Python and Haskell
@@ -102,4 +102,4 @@ Thank you for reading all of this :heart:
 
 Made with ❤️ by Helife
 
-# [My complete CV](http://mattisdalleau.com/cv.html)
+<!-- # [My complete CV](http://mattisdalleau.com/cv.html) -->
