@@ -5,6 +5,8 @@
 
 [![lul](https://readme-typing-svg.herokuapp.com?font=futura&color=15F6F7&size=30&center=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Mattis;I'm+a+%F0%9F%9A%80+french+developer%F0%9F%9A%80;Actually+I'm+a+third+year+Student+at+EPITECH!)](https://www.youtube.com/watch?v=iik25wqIuFo)
 
+Currently in Korea until next year !
+
 ## I'm a C/C++/Python dev and I'm not great with frontend
 
 <img src="https://avatars.githubusercontent.com/u/62753801?v=4" height="300px" width="300px" class="centerImage" />
@@ -13,8 +15,8 @@
 ## 📖**About me :**
 - 🇷🇪 I'm from the Réunion's Island
 - ✨ I'm a software engineer working with C/C++, Python and Haskell
-- 📘 Currently I am a third year student at [@Epitech](https://www.epitech.eu/)
-- 🔒 I am a DevSecOps at [ExodataCyberdefense](exodata.fr) !
+- 📘 Currently I am a fourth year student at [@Epitech](https://www.epitech.eu/) & Exchange Student at [@Keimyung University](https://www.kmu.ac.kr) in South Korea
+- 🔒 I was a DevSecOps at [ExodataCyberdefense](exodata.fr) !
 - 💾 I am a big Linux Enthusiast
 - ⚡ Aside of programming I love piano, guitar, accordeon, horseback-riding, drawing ...
 
