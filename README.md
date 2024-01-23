@@ -7,8 +7,6 @@
 # Hello, I'm Mattis DALLEAU
 Currently in Korea until next year !
 
-## I'm a C/C++/Python dev and I'm not great with frontend
-<!-- ### Down below is a resume about me, but you may be here for [my complete CV](https://mattisdalleau.com/cv.html) -->
 ## 📖**About me :**
 - 🇷🇪 I'm from the Réunion's Island
 - ✨ I'm a software engineer working with C/C++, Python and Haskell
