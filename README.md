@@ -74,7 +74,7 @@ Currently in Korea until next year !
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=EasyDear&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/EasyDear)
 
-## **GameJams:**
+## **GameJams:** (Using No Framework such as Unity, Unreal, GameMaker...)
 
 ### [Unleash the Peasant - RPG](https://d3nx.itch.io/unleash-the-peasant)
 
