@@ -5,12 +5,12 @@
 [![lul](https://readme-typing-svg.herokuapp.com?font=futura&color=15F6F7&size=30&center=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Mattis;I'm+a+%F0%9F%9A%80+french+developer%F0%9F%9A%80;Actually+I'm+a+third+year+Student+at+EPITECH!)](https://www.youtube.com/watch?v=iik25wqIuFo)
 
 # Hello, I'm Mattis DALLEAU
-Currently in Korea until next year !
+Just came back from Korea !
 
 ## 📖**About me :**
 - 🇷🇪 I'm from the Réunion's Island
 - ✨ I'm a software engineer working with C/C++, Python and Haskell
-- 📘 Currently I am a fourth year student at [@Epitech](https://www.epitech.eu/) & Exchange Student at [@Keimyung University](https://www.kmu.ac.kr) in South Korea
+- 📘 Currently I am a fifth year student at [@Epitech](https://www.epitech.eu/) & And just finished my Exchange Student Program at [@Keimyung University, 계명대학교](https://www.kmu.ac.kr) in South Korea
 - 🔒 I was a DevSecOps at [ExodataCyberdefense](exodata.fr) !
 - 💾 I am a big Linux Enthusiast
 - ⚡ Aside of programming I love piano, guitar, accordeon, horseback-riding, drawing ...
