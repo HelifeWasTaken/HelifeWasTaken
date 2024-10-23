@@ -1,7 +1,6 @@
 <meta property="og:title" content="Mattis dalleau Website" />
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/62753801?v=4">
 
-
 [![lul](https://readme-typing-svg.herokuapp.com?font=futura&color=15F6F7&size=30&center=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Mattis;I'm+a+%F0%9F%9A%80+french+developer%F0%9F%9A%80;Actually+I'm+a+third+year+Student+at+EPITECH!)](https://www.youtube.com/watch?v=iik25wqIuFo)
 
 # Hello, I'm Mattis DALLEAU
@@ -11,7 +10,7 @@ Just came back from Korea !
 - 🇷🇪 I'm from the Réunion's Island
 - ✨ I'm a software engineer working with C/C++, Python and Haskell
 - 📘 Currently I am a fifth year student at [@Epitech](https://www.epitech.eu/) & And just finished my Exchange Student Program at [@Keimyung University, 계명대학교](https://www.kmu.ac.kr) in South Korea
-- 🔒 I was a DevSecOps at [ExodataCyberdefense](exodata.fr) !
+- 🔒 I was a DevSecOps at [ExodataCyberdefense](exodata.fr) twice !
 - 💾 I am a big Linux Enthusiast
 - ⚡ Aside of programming I love piano, guitar, accordeon, horseback-riding, drawing ...
 
@@ -74,6 +73,10 @@ Just came back from Korea !
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=EasyDear&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/EasyDear)
 
+-  💻 A simple reusable entity framework (Without Components) for simple C projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=SEFIC&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/SEFIC)
+
 ## **GameJams:** (Using No Framework such as Unity, Unreal, GameMaker...)
 
 ### [Unleash the Peasant - RPG](https://d3nx.itch.io/unleash-the-peasant)
@@ -85,11 +88,36 @@ Just came back from Korea !
 [![Touhou.RB image](https://i.ytimg.com/vi/gNi5NvM8_8o/mqdefault.jpg)](https://www.youtube.com/watch?v=gNi5NvM8_8o)
 <img src="https://img.itch.zone/aW1hZ2UvMTQ2MDg2OC8xMTEwOTk3Ny5naWY=/347x500/aynVA5.gif" alt="Touhou.RB Image 1" width="400" height="300" /> <img src="https://img.itch.zone/aW1hZ2UvMTQ2MDg2OC8xMTEwOTgyOC5naWY=/347x500/2WbfWk.gif" alt="Touhou.RB 2" width="400" height="300" />
 
+**Cool projects:**
+
+- Reusable C++ tools
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=SilvaCollections&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/SilvaCollections)
+
+- 6502 Interpreter for teaching purposes
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=6502-Interpreter&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/6502-Interpreter)
+
+- Chip8 workshop to teach people how memory is managed in ROM
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=Chip8-Rom-Workshop&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/Chip8-Rom-Workshop)
+
+- Easy to use json parser in C (fault tolerant)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=CJson&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/CJson)
+
+- Deploy small prod servers using Docker Swarm (When k8s is not an option)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=CI-Deployer&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/CI-Deployer)
+
+- Make an archive of a project with a simple lightweight service using Docker
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=docker-backer&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/docker-backer)
 
 ## 📱 **Reach out to me :**
-- ✉️  Email (personal)   : mattisdalleau@gmail.com
-- ✉️  Email (school/pro) : mattis.dalleau@epitech.eu
-- 💼 Linkedin           : [mattis-dalleau](https://www.linkedin.com/in/mattis-dalleau/)
+- ✉️  Email (personal)   : [mattisdalleau@gmail.com](mailto:mattisdalleau@gmail.com)
+- ✉️  Email (school/pro) : [mattis.dalleau@epitech.eu](mailto:mattis.dalleau@epitech.eu)
+- 💼  Linkedin           : [Mattis DALLEAU](https://www.linkedin.com/in/mattis-dalleau/)
 </br>
 </br>
 
