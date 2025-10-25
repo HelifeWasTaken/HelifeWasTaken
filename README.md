@@ -9,7 +9,7 @@ Just came back from Korea !
 ## 📖**About me :**
 - 🇷🇪 I'm from the Réunion's Island
 - ✨ I'm a software engineer working with C/C++, Python and Haskell
-- 📘 Currently I am a fifth year student at [@Epitech](https://www.epitech.eu/) & And just finished my Exchange Student Program at [@Keimyung University, 계명대학교](https://www.kmu.ac.kr) in South Korea
+- 📘 Currently I have graduated from [@Epitech](https://www.epitech.eu/) & at [@Keimyung University, 계명대학교](https://www.kmu.ac.kr) Master Program (In Exchange) in South Korea
 - 🔒 I was a DevSecOps at [ExodataCyberdefense](exodata.fr) twice !
 - 💾 I am a big Linux Enthusiast
 - ⚡ Aside of programming I love piano, guitar, accordeon, horseback-riding, drawing ...
