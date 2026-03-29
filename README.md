@@ -1,7 +1,7 @@
 <meta property="og:title" content="Mattis dalleau Website" />
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/62753801?v=4">
 
-[![lul](https://readme-typing-svg.herokuapp.com?font=futura&color=15F6F7&size=30&center=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Mattis;I'm+a+%F0%9F%9A%80+french+developer%F0%9F%9A%80;Actually+I'm+a+third+year+Student+at+EPITECH!)](https://www.youtube.com/watch?v=iik25wqIuFo)
+[![lul](https://readme-typing-svg.herokuapp.com?font=futura&color=15F6F7&size=30&center=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Mattis;I'm+a+%F0%9F%9A%80+french+developer%F0%9F%9A%80;Security+Engineer+at+GitGuardian!)](https://www.youtube.com/watch?v=iik25wqIuFo)
 
 # Hello, I'm Mattis DALLEAU
 
