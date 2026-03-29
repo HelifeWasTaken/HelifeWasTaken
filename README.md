@@ -109,10 +109,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=CI-Deployer&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/CI-Deployer)
 
-- Make an archive of a project with a simple lightweight service using Docker
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HelifeWasTaken&repo=docker-backer&theme=radical&hide_border=false)](https://github.com/HelifeWasTaken/docker-backer)
-
 ## 📱 **Reach out to me :**
 - ✉️  Email (personal)   : [mattisdalleau@gmail.com](mailto:mattisdalleau@gmail.com)
 - ✉️  Email (school/pro) : [mattis.dalleau@epitech.eu](mailto:mattis.dalleau@epitech.eu)
