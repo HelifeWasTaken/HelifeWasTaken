@@ -9,7 +9,7 @@
 - 🇷🇪 I'm from the Réunion's Island
 - ✨ I'm a software engineer working with C/C++, Python and Haskell
 - 📘 Currently I have graduated from [@Epitech](https://www.epitech.eu/) & at [@Keimyung University, 계명대학교](https://www.kmu.ac.kr) Master Program (In Exchange) in South Korea
-- 🔒 Security Engineer [@GitGuardian]
+- 🔒 Security Engineer [@GitGuardian](https://gitguardian.com)
 - 💾 I am a big Linux Enthusiast
 - ⚡ Aside of programming I love piano, guitar, accordeon, horseback-riding, drawing ...
 
